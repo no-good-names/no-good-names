@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @i-dont-have-any-good-names
-- Currectly learning Python
+- Hi, I’m @i-dont-have-any-good-names
+- Currectly learning Python and JavaScript
