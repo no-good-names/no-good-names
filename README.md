@@ -1,5 +1,4 @@
-<h1>i-dont-have-good-names' profile</h1>
-<p align="left">Languages I mainly use:</p>
+<h3 align="left">Languages I mainly use:</h3>
 
 <div align="left">
   <img src="/C_logo.svg" height="38" width="36" alt="c logo"  />
@@ -9,4 +8,7 @@
 
 ###
 
-<p allign="left">Projects:</p>
+<h3 allign="left">Projects:</h3>
+<div align="left">
+  <a href="https://github.com/i-dont-have-any-good-names/CG">SDL2 (C)</a>
+</div>
