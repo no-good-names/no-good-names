@@ -10,5 +10,5 @@
 
 <h3 allign="left">Projects:</h3>
 <div align="left">
-  <a href="https://github.com/i-dont-have-any-good-names/CG">SDL2 (C)</a>
+  <a href="https://github.com/i-dont-have-any-good-names/C_SDL">SDL2 (C)</a>
 </div>
