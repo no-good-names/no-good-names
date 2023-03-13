@@ -8,7 +8,7 @@
   <img src="/python.png" height="38" width="36" alt="python logo"/>
 </div>
 
-### Stats
+### Stats:
 
 <picture>
 <source 
@@ -32,8 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=i-dont-have-any-good-names&show_icons=true&bg_color=00000000&border_color=aaaaaa88&text_color=888888&custom_title=Stats)
 -->
 
-
-<h3 allign="left">Projects:</h3>
+### Projects:
 <div align="left">
   <a href="https://github.com/i-dont-have-any-good-names/C_SDL">SDL2 (C)</a>
 </div>
