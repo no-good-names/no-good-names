@@ -1,4 +1,4 @@
-<h1>Check out my current projects below!</h1>
+<h1>Hey!</h1>
 
 ### Most Used Languages:
 
