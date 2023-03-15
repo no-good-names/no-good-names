@@ -31,7 +31,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=i-dont-have-any-good-names&show_icons=true&bg_color=00000000&border_color=aaaaaa88&text_color=888888&custom_title=Stats)
 -->
 
-### Projects:
+### Latest projects:
 <div align="left">
   <a href="https://github.com/no-good-names/C_SDL">SDL2 (C)</a>
 </div>
