@@ -7,10 +7,10 @@
 -->
 
 <picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=no-good-names&show_icons=true&theme=transparent](https://github-readme-stats.vercel.app/api?username=no-good-names&show_icons=true&bg_color=00000000&border_color=aaaaaa88&text_color=888888"
+<source srcset="https://github-readme-stats.vercel.app/api?username=no-good-names&show_icons=true&theme=transparent](https://github-readme-stats.vercel.app/api?username=no-good-names&bg_color=00000000&border_color=aaaaaa88&text_color=888888"
   media="(prefers-color-scheme: dark)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=no-good-names%show_rating=false&bg_color=00000000&border_color=aaaaaa88&text_color=888888&custom_title=Status"/>
+<img src="https://github-readme-stats.vercel.app/api?username=no-good-names&bg_color=00000000&border_color=aaaaaa88&text_color=888888&custom_title=Status"/>
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=no-good-names&layout=compact&bg_color=00000000&border_color=aaaaaa88&text_color=888888&custom_title=Status&theme=transparent)](https://github.com/no-good-names/github-readme-stats&theme=transparent)
