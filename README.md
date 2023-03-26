@@ -1,5 +1,3 @@
-<h1>Hey!</h1>
-
 ### Most Used Languages:
 
 <div align="left">
@@ -32,6 +30,6 @@
 -->
 
 ### Latest projects:
-<div align="left">
-  <a href="https://github.com/no-good-names/C_SDL">SDL2 (C)</a>
-</div>
+
+ <a href="https://github.com/no-good-names/C_SDL#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=no-good-names&repo=C_SDL&show_owner=true&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" alt="C SDL"></a>
+ <a href="https://github.com/no-good-names/C_SDL#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/pin/?username=no-good-names&repo=C_SDL&show_owner=true&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&v=3#gh-dark-mode-only" alt="C SDL"></a>
