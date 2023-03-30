@@ -31,4 +31,5 @@
 
 ### Latest projects:
 
- <a href="https://github.com/no-good-names/C_SDL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=no-good-names&repo=C_SDL&show_owner=true&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&theme=transparent" alt="C SDL"></a>
+ <a href="https://github.com/no-good-names/C_SDL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=no-good-names&repo=C_SDL&show_owner=false&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&theme=transparent" alt="C_SDL"></a>
+ <a href="https://github.com/no-good-names/CGL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=no-good-names&repo=CGL&show_owner=false&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&theme=transparent" alt="CGL"></a>
