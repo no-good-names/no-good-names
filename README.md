@@ -1,3 +1,6 @@
+### About me:
+I've been learning to code for two years now, I mainly use C and Python
+
 <!--
 <div align="left">
   <img src="/C_logo.svg" height="38" width="36" alt="c logo"/>
