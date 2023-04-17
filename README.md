@@ -1,5 +1,8 @@
+![Profile Views](https://komarev.com/ghpvc/?username=no-good-names&color=brightgreen&style=flat)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&link=https://github.com/no-good-names)](https://github.com/no-good-names)
+
 ### About me:
-I've been learning to code for two years now, I mainly use C and Python
+I've been learning to code for two years now, I mainly use C, C++ and Python
 
 <!--
 <div align="left">
