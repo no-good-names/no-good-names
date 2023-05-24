@@ -38,10 +38,9 @@ I've been learning to code for two years now, I mainly use C, C++ and Python
 ![](https://github-readme-stats.vercel.app/api?username=i-dont-have-any-good-names&show_icons=true&bg_color=00000000&border_color=aaaaaa88&text_color=888888&custom_title=Stats)
 -->
 
-### Latest projects:
+### Latest public projects:
 
 <a href="https://github.com/no-good-names/C_SDL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=no-good-names&repo=C_SDL&show_owner=false&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&theme=transparent" alt="C_SDL"></a>
-<a href="https://github.com/no-good-names/DOOMC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=no-good-names&repo=DOOMC&show_owner=false&title_color=58a6ff&text_color=adbac7&bg_color=00000000&border_color=444c56&theme=transparent" alt="DOOMC"></a>
  
  ### Learning:
  
