@@ -23,7 +23,6 @@ I'm a full stack developer, been coding for 4 years 🙂
 - Web Development
   - HTML
   - CSS
-  - Sass/Scss
   - JavaScript
 - C/C++
 - Java
