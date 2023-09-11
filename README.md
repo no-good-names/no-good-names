@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a full stack developer, been coding for 4 years 🙂
+I'm a C/C++ programmer for 4 years 🙂
 
 ## Projects
 
