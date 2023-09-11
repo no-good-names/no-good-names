@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm a C/C++ programmer for 4 years 🙂
+Ruining my life by programming since 2019 🙂
 
 ## Projects
 
