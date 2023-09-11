@@ -12,7 +12,14 @@ Ruining my life by programming since 2019 🙂
 ## Learning
 
 <details>
-<summary></summary>
+<summary>Click to expand!</summary>
+
+  - Java
+  - Python
+    - Cyber Security
+  - C/C++
+    - Backend development
+    - Software development
 </details>
 
 ## Languages I know
@@ -39,4 +46,6 @@ Ruining my life by programming since 2019 🙂
   - C/C++
 - Minecraft API's
   - fabric
+- Python
+  - Pygame (Just for fun)
 </details>
