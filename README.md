@@ -6,20 +6,23 @@ Ruining my life by programming since 2019 🙂
 
 ## Projects
 
-- SDL2 renderer (needs a name)
-  - custom SDL2 renderer made in c
+- Dawg DOOM clone
+    - SDL2
+- Software renderer in C
+    - SDL2
+    - Shaders
 
 ## Learning
 
 <details>
 <summary>Click to expand!</summary>
-
-  - Java
-  - Python
-    - Cyber Security
-  - C/C++
-    - Backend development
-    - Software development
+  
+- C/C++
+  - Backend development
+  - Software development
+- Java
+- Machine learning
+- CS
 </details>
 
 ## Languages I know
@@ -33,7 +36,7 @@ Ruining my life by programming since 2019 🙂
   - JavaScript
 - C/C++
 - Java
-- Python 2(or later)
+- Python >= 3
 </details>
 
 ## Skills, Technologies, and Frameworks I Know
