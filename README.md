@@ -1,28 +1,15 @@
-# Hello 👋
-
 ## About me
 
-Ruining my life by programming since 2019 🙂
-
-## Projects
-
-- Dawg DOOM clone
-    - SDL2
-- Software renderer in C
-    - SDL2
-    - Shaders
+Too busy ☹️
 
 ## Learning
 
 <details>
 <summary>Click to expand!</summary>
-  
+
 - C/C++
-  - Backend development
-  - Software development
-- Java
-- Machine learning
-- CS
+- SDL2
+- OpenGL
 </details>
 
 ## Languages I know
@@ -37,18 +24,4 @@ Ruining my life by programming since 2019 🙂
 - C/C++
 - Java
 - Python >= 3
-</details>
-
-## Skills, Technologies, and Frameworks I Know
-
-<details>
-<summary>Click to expand!</summary>
-
-- react.js
-- SDL2
-  - C/C++
-- Minecraft API's
-  - fabric
-- Python
-  - Pygame (Just for fun)
 </details>
